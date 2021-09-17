@@ -1,0 +1,31 @@
+[2021-09-16 23:42:08.913] [sharedprocess] [info] Deleted from disk wakatime.vscode-wakatime /home/krirogn/.vscode/extensions/wakatime.vscode-wakatime-17.0.1
+[2021-09-16 23:42:13.633] [sharedprocess] [info] Installing extension: wakatime.vscode-wakatime
+[2021-09-16 23:42:13.633] [sharedprocess] [info] Extensions is already requested to install wakatime.vscode-wakatime
+[2021-09-16 23:42:14.960] [sharedprocess] [info] Downloaded extension: wakatime.vscode-wakatime /home/krirogn/.config/Code/CachedExtensionVSIXs/wakatime.vscode-wakatime-17.0.3
+[2021-09-16 23:42:15.031] [sharedprocess] [info] Extracted extension to /home/krirogn/.vscode/extensions/.5c0e733c-68da-4aa5-8a42-4dc4fc363c58: wakatime.vscode-wakatime
+[2021-09-16 23:42:15.037] [sharedprocess] [info] Renamed to /home/krirogn/.vscode/extensions/wakatime.vscode-wakatime-17.0.3
+[2021-09-16 23:42:15.038] [sharedprocess] [info] Extracting completed. wakatime.vscode-wakatime
+[2021-09-16 23:42:15.048] [sharedprocess] [info] Extension installed successfully: wakatime.vscode-wakatime
+[2021-09-16 23:42:18.696] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-16 23:42:18.698] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210915T123756'
+[2021-09-16 23:42:38.693] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-16 23:42:38.694] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-16 23:42:38.697] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1631728674502.
+[2021-09-16 23:42:48.693] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-09-17 00:10:47.733] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-17 01:22:18.808] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-17 11:58:52.696] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-17 13:25:21.041] [sharedprocess] [info] Installing extension: wakatime.vscode-wakatime
+[2021-09-17 13:25:21.045] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-09-17 13:25:22.915] [sharedprocess] [info] Downloaded extension: wakatime.vscode-wakatime /home/krirogn/.config/Code/CachedExtensionVSIXs/wakatime.vscode-wakatime-17.0.5
+[2021-09-17 13:25:23.100] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/krirogn/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.9.2
+[2021-09-17 13:25:23.132] [sharedprocess] [info] Extracted extension to /home/krirogn/.vscode/extensions/.c0df9328-e3f9-4e7b-8a57-562f8358d206: wakatime.vscode-wakatime
+[2021-09-17 13:25:23.138] [sharedprocess] [info] Renamed to /home/krirogn/.vscode/extensions/wakatime.vscode-wakatime-17.0.5
+[2021-09-17 13:25:23.139] [sharedprocess] [info] Extracting completed. wakatime.vscode-wakatime
+[2021-09-17 13:25:23.148] [sharedprocess] [info] Extension installed successfully: wakatime.vscode-wakatime
+[2021-09-17 13:25:24.932] [sharedprocess] [info] Extracted extension to /home/krirogn/.vscode/extensions/.ddc26535-9545-446e-8944-0ae64b305059: ms-python.vscode-pylance
+[2021-09-17 13:25:24.942] [sharedprocess] [info] Renamed to /home/krirogn/.vscode/extensions/ms-python.vscode-pylance-2021.9.2
+[2021-09-17 13:25:24.943] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2021-09-17 13:25:24.954] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2021-09-17 11:52:31.117] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-17 17:43:47.382] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds

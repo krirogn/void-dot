@@ -1,0 +1,8 @@
+[Default Applications]
+x-scheme-handler/postman=Postman.desktop
+x-scheme-handler/mailto=userapp-Thunderbird-3ZV280.desktop
+message/rfc822=userapp-Thunderbird-3ZV280.desktop
+
+[Added Associations]
+x-scheme-handler/mailto=userapp-Thunderbird-3ZV280.desktop;
+message/rfc822=userapp-Thunderbird-3ZV280.desktop;

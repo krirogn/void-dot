@@ -1,0 +1,19 @@
+2021/09/15-14:01:11.886 53d6 Reusing MANIFEST /home/krirogn/.config/Postman/Partitions/556a158b-62d6-48cb-83b8-8c7674fb0fd5/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/09/15-14:01:11.886 53d6 Recovering log #34
+2021/09/15-14:01:11.887 53d6 Reusing old log /home/krirogn/.config/Postman/Partitions/556a158b-62d6-48cb-83b8-8c7674fb0fd5/IndexedDB/file__0.indexeddb.leveldb/000034.log 
+2021/09/15-14:01:15.515 53d6 Compacting 1@1 + 1@2 files
+2021/09/15-14:01:15.523 53d6 Generated table #37@1: 3165 keys, 288411 bytes
+2021/09/15-14:01:15.523 53d6 Compacted 1@1 + 1@2 files => 288411 bytes
+2021/09/15-14:01:15.528 53d6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/09/15-14:01:26.522 5459 Level-0 table #39: started
+2021/09/15-14:01:26.526 5459 Level-0 table #39: 7124 bytes OK
+2021/09/15-14:01:26.531 5459 Delete type=2 #35
+2021/09/15-14:01:26.531 5459 Delete type=2 #32
+2021/09/15-14:01:26.531 5459 Delete type=0 #34
+2021/09/15-14:01:26.532 5459 Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/09/15-14:01:43.808 53d5 Compacting 1@1 + 1@2 files
+2021/09/15-14:01:43.822 53d5 Generated table #40@1: 3177 keys, 290721 bytes
+2021/09/15-14:01:43.822 53d5 Compacted 1@1 + 1@2 files => 290721 bytes
+2021/09/15-14:01:43.827 53d5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/09/15-14:01:43.827 53d5 Delete type=2 #37
+2021/09/15-14:01:43.827 53d5 Delete type=2 #39

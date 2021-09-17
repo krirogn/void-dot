@@ -1,0 +1,55 @@
+[2021-09-15 13:08:15.058] [exthost] [info] extension host started
+[2021-09-15 13:08:15.299] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-15 13:08:15.299] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/krirogn/p/VSCode-linux-x64/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-15 13:08:15.309] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-15 13:08:15.310] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/krirogn/p/VSCode-linux-x64/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-15 13:08:15.311] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 13:08:15.311] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/krirogn/p/VSCode-linux-x64/resources/app/extensions/git/dist/main
+[2021-09-15 13:08:15.328] [exthost] [info] ExtensionService#_doActivateExtension mrorz.language-gettext {"startup":true,"extensionId":{"value":"mrorz.language-gettext","_lower":"mrorz.language-gettext"},"activationEvent":"*"}
+[2021-09-15 13:08:15.328] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/krirogn/.vscode/extensions/mrorz.language-gettext-0.2.0/out/src/vscgettext
+[2021-09-15 13:08:15.331] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-09-15 13:08:15.331] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/krirogn/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-09-15 13:08:15.348] [exthost] [info] ExtensionService#_doActivateExtension WakaTime.vscode-wakatime {"startup":true,"extensionId":{"value":"WakaTime.vscode-wakatime","_lower":"wakatime.vscode-wakatime"},"activationEvent":"*"}
+[2021-09-15 13:08:15.348] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/krirogn/.vscode/extensions/wakatime.vscode-wakatime-17.0.1/dist/extension
+[2021-09-15 13:08:15.483] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 13:08:15.483] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/krirogn/p/VSCode-linux-x64/resources/app/extensions/github/dist/extension.js
+[2021-09-15 13:08:15.490] [exthost] [info] eager extensions activated
+[2021-09-15 13:08:15.491] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-15 13:08:15.491] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/krirogn/p/VSCode-linux-x64/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-15 13:08:15.600] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-15 13:08:15.600] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/krirogn/p/VSCode-linux-x64/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-15 13:08:15.604] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-15 13:08:15.604] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/krirogn/p/VSCode-linux-x64/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-15 13:08:15.623] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-15 13:08:15.623] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/krirogn/p/VSCode-linux-x64/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-15 13:08:21.733] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-15 13:08:22.751] [exthost] [info] exiting with code 0
+[2021-09-15 13:08:23.919] [exthost] [info] extension host started
+[2021-09-15 13:08:23.919] [exthost] [info] Skipping acquiring lock for /home/krirogn/.config/Code/User/workspaceStorage/50b35ad2f61f7a14b61bb5c0eb675adb.
+[2021-09-15 13:08:24.572] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-15 13:08:24.572] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/krirogn/p/VSCode-linux-x64/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-15 13:08:24.587] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2021-09-15 13:08:24.587] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/krirogn/p/VSCode-linux-x64/resources/app/extensions/php-language-features/dist/phpMain
+[2021-09-15 13:08:24.600] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-15 13:08:24.600] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/krirogn/p/VSCode-linux-x64/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-15 13:08:24.608] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 13:08:24.608] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/krirogn/p/VSCode-linux-x64/resources/app/extensions/git/dist/main
+[2021-09-15 13:08:24.659] [exthost] [info] ExtensionService#_doActivateExtension mrorz.language-gettext {"startup":true,"extensionId":{"value":"mrorz.language-gettext","_lower":"mrorz.language-gettext"},"activationEvent":"*"}
+[2021-09-15 13:08:24.659] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/krirogn/.vscode/extensions/mrorz.language-gettext-0.2.0/out/src/vscgettext
+[2021-09-15 13:08:24.663] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-09-15 13:08:24.663] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/krirogn/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-09-15 13:08:24.683] [exthost] [info] ExtensionService#_doActivateExtension WakaTime.vscode-wakatime {"startup":true,"extensionId":{"value":"WakaTime.vscode-wakatime","_lower":"wakatime.vscode-wakatime"},"activationEvent":"*"}
+[2021-09-15 13:08:24.683] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/krirogn/.vscode/extensions/wakatime.vscode-wakatime-17.0.1/dist/extension
+[2021-09-15 13:08:25.703] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-15 13:08:25.704] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/krirogn/p/VSCode-linux-x64/resources/app/extensions/github/dist/extension.js
+[2021-09-15 13:08:25.745] [exthost] [info] eager extensions activated
+[2021-09-15 13:08:25.842] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-15 13:08:25.842] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/krirogn/p/VSCode-linux-x64/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-15 13:08:26.078] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-15 13:08:26.078] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/krirogn/p/VSCode-linux-x64/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-15 13:08:26.088] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-15 13:08:26.088] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/krirogn/p/VSCode-linux-x64/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-15 13:08:26.603] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-15 13:08:26.604] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/krirogn/p/VSCode-linux-x64/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-15 16:34:32.248] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-15 16:34:33.258] [exthost] [info] exiting with code 0

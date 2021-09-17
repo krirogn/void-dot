@@ -1,0 +1,10 @@
+[2021-09-15 18:49:07.425] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:7068)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-09-15 18:49:09.225] [renderer1] [error] XHR failed: Error: XHR failed
+    at XMLHttpRequest.w.onerror (vscode-file://vscode-app/home/krirogn/p/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:85:24532)
+[2021-09-15 18:49:19.022] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:7068)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-09-15 18:49:21.802] [renderer1] [error] XHR failed: Error: XHR failed
+    at XMLHttpRequest.w.onerror (vscode-file://vscode-app/home/krirogn/p/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:85:24532)

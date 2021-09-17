@@ -1,0 +1,36 @@
+Error 2021-09-15 15:46:36: Detection of Python Interpreter for Command python3.7 failed [Error: spawn ENOTDIR
+	at ChildProcess.spawn (internal/child_process.js:403:11)
+	at Object.spawn (child_process.js:562:9)
+	at Object.t.plainExec (/home/krirogn/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:9:378012)
+	at o.exec (/home/krirogn/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:37:14665)
+	at v.getInterpreter (/home/krirogn/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:78:62961)
+	at async Promise.all (index 0)] {
+  errno: -20,
+  code: 'ENOTDIR',
+  syscall: 'spawn'
+}
+Error 2021-09-15 15:46:36: Detection of Python Interpreter for Command python3.6 failed [Error: spawn ENOTDIR
+	at ChildProcess.spawn (internal/child_process.js:403:11)
+	at Object.spawn (child_process.js:562:9)
+	at Object.t.plainExec (/home/krirogn/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:9:378012)
+	at o.exec (/home/krirogn/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:37:14665)
+	at v.getInterpreter (/home/krirogn/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:78:62961)
+	at async Promise.all (index 1)] {
+  errno: -20,
+  code: 'ENOTDIR',
+  syscall: 'spawn'
+}
+> python3 -c "import sys;print(sys.executable)"
+Error 2021-09-15 15:46:36: Detection of Python Interpreter for Command python2 failed [Error: spawn ENOTDIR
+	at ChildProcess.spawn (internal/child_process.js:403:11)
+	at Object.spawn (child_process.js:562:9)
+	at Object.t.plainExec (/home/krirogn/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:9:378012)
+	at o.exec (/home/krirogn/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:37:14665)
+	at v.getInterpreter (/home/krirogn/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:78:62961)
+	at async Promise.all (index 3)] {
+  errno: -20,
+  code: 'ENOTDIR',
+  syscall: 'spawn'
+}
+> python -c "import sys;print(sys.executable)"
+> /bin/python -c "import sys;print(sys.executable)"

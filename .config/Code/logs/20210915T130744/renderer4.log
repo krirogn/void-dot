@@ -1,0 +1,25 @@
+[2021-09-15 15:46:34.362] [renderer4] [error] net::ERR_NAME_NOT_RESOLVED: Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:7068)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-09-15 15:46:34.491] [renderer4] [error] XHR failed: Error: XHR failed
+    at XMLHttpRequest.w.onerror (vscode-file://vscode-app/home/krirogn/p/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:85:24532)
+[2021-09-15 15:53:13.736] [renderer4] [error] Error: File is a directory
+    at i.handleSetInputError (vscode-file://vscode-app/home/krirogn/p/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:172053)
+    at i.handleSetInputError (vscode-file://vscode-app/home/krirogn/p/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:176202)
+    at i.setInput (vscode-file://vscode-app/home/krirogn/p/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:171879)
+    at async h.doSetInput (vscode-file://vscode-app/home/krirogn/p/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:33390)
+    at async h.doOpenEditor (vscode-file://vscode-app/home/krirogn/p/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:31790)
+    at async h.openEditor (vscode-file://vscode-app/home/krirogn/p/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:31438)
+    at async vscode-file://vscode-app/home/krirogn/p/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:2584:16931
+    at async vscode-file://vscode-app/home/krirogn/p/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:2666:63995
+[2021-09-15 15:53:14.377] [renderer4] [error] Error: File is a directory
+    at i.handleSetInputError (vscode-file://vscode-app/home/krirogn/p/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:172053)
+    at i.handleSetInputError (vscode-file://vscode-app/home/krirogn/p/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:176202)
+    at i.setInput (vscode-file://vscode-app/home/krirogn/p/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:171879)
+    at async h.doSetInput (vscode-file://vscode-app/home/krirogn/p/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:33390)
+    at async h.doOpenEditor (vscode-file://vscode-app/home/krirogn/p/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:31790)
+    at async h.openEditor (vscode-file://vscode-app/home/krirogn/p/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:31438)
+    at async vscode-file://vscode-app/home/krirogn/p/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:2584:16931
+    at async vscode-file://vscode-app/home/krirogn/p/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:2666:63995
+[2021-09-15 16:16:37.890] [renderer4] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26)
