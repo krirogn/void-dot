@@ -1,0 +1,10 @@
+#!/bin/bash
+
+wget -q --spider http://google.com
+
+if [ $? -eq 0 ]; then
+	wget -O ~/images/wallpapers/unsplash/tmp/wall.jpg https://source.unsplash.com/collection/8853695/1920x1080
+	feh --bg-fill ~/images/wallpapers/unsplash/tmp/wall.jpg
+else
+	feh --bg-fill --randomize ~/images/wallpapers/random/*
+fi

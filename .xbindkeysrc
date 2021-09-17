@@ -1,0 +1,43 @@
+# Increase volume
+"amixer sset 'Master' 5%+ && sh ~/.s/bar.sh"
+	XF86AudioRaiseVolume
+
+# Decrease volume
+"amixer sset 'Master' 5%- && sh ~/.s/bar.sh"
+	XF86AudioLowerVolume
+
+# Mute volume
+"amixer sset 'Master' toggle && sh ~/.s/bar.sh"
+	XF86AudioMute
+
+# Play-Pause
+"playerctl play-pause"
+	XF86AudioPlay
+
+# Previous Media
+"playerctl previous"
+	XF86AudioPrev
+
+# Forward Media
+"playerctl next"
+	XF86AudioNext
+
+# Increase backlight
+"xbacklight -inc 10"
+	XF86MonBrightnessUp
+
+# Decrease backlight
+"xbacklight -dec 10"
+	XF86MonBrightnessDown
+
+# Turn Off Screen
+"xbacklight -set 0"
+	XF86DisplayOff
+
+# Screenshot
+"scrot && notify-send '<3'"
+	F8
+
+# Sleep
+"sudo zzz && slock"
+	XF86Sleep

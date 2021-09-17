@@ -1,0 +1,1 @@
+Bitwarden-1.28.2-x86_64.AppImage  Postman  VSCode-linux-x64  minecraft-launcher
